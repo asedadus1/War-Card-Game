@@ -1,1 +1,2 @@
 # War-Card-Game
+🎉 Hey everyone, I'm thrilled to introduce you to "WCG," a fun and exciting card game app built with SwiftUI! Get ready for a wild ride of card-swapping action against the computer, complete with eye-catching visuals like captivating backgrounds, a slick logo, and seriously stylish cards. Challenge the CPU, rack up those points, and join in on the coding fun because this project is open for your creativity and collaboration. So go ahead, dive in, and let's keep the card game party rolling! 🃏📱💥
